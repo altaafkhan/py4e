@@ -1,1 +1,11 @@
 # Course 1: Programming for Everybody (Getting Started with Python)
+This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.
+
+## Syllabus
+Week 1: Why we Program?
+Week 2: Installing and Using Python
+Week 3: Why we Program? (continued)
+Week 4: Variables and Expressions
+Week 5: Conditional Statements
+Week 6: Functions
+Week 7: Loops and Iterations
