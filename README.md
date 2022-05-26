@@ -1,5 +1,12 @@
 # Python for Everybody Specialisation
-Course offered by University of Michigan through [Coursera](https://www.coursera.org/specializations/python). This repository contains practice code from lectures, exercises and assignments.
+Course offered by University of Michigan through [Coursera](https://www.coursera.org/specializations/python). The Spcialisation is made up of four courses and a capstone project:
+- Course 1: Programming for Everybody (Getting Started with Python)
+- Course 2: Python Data Structures
+- Course 3: Using Python to Access Web Data
+- Course 4: Using Database with Python
+- Course 5: Capstone: Retrieving, Processing and Visualising Data with Python
+
+This repository contains practice code from lectures, exercises and assignments.
 
 ## Additional Resources
 The Open Michigan materials are available at www.py4e.com
