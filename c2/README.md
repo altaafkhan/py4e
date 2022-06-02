@@ -1,6 +1,8 @@
 # Course 2: Python Data Structures
 This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook “Python for Everybody”.  This course covers Python 3.
 
+[Back](https://github.com/altaafkhan/py4e) to specialisation folder.
+
 ## Syllabus
 ### Week 1: Strings
 In this class, we pick up where we left off in the previous class, starting in Chapter 6 of the textbook and covering Strings and moving into data structures. The second week of this class is dedicated to getting Python installed if you want to actually run the applications on your desktop or laptop. If you choose not to install Python, you can just skip to the third week and get a head start.
